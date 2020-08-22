@@ -10,7 +10,7 @@ public class Practice {
 
 		board.clear();
 
-		// Draw a filled pink oval.
+		// Draw an outline of a pink oval.
 		// Center: (200, 300)
 		// Width: 100
 		// Length: 50
@@ -19,8 +19,9 @@ public class Practice {
 		// Center: (400, 400)
 		// Side length: 100
 
-		// Draw a purple line from the top to the bottom of the screen in the
-		// center width-wise.
+		// Draw a purple line across the screen from left to right.
+		
+		// Draw an orange line across the screen from top to bottom.
 
 		board.repaint();
 	}
