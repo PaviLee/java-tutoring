@@ -1,4 +1,4 @@
-package class4;
+package class3;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -39,10 +39,10 @@ public class UserInputSquare {
 				y += move;
 			} else if (number == 3) {
 				x -= move;
-			} else {
+			} else if (number == 4) {
 				x += move;
 			}
-			
+
 			// Show square for 15 milliseconds
 			Thread.sleep(15);
 		}
