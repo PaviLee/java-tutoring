@@ -13,7 +13,7 @@ public class Practice {
 		// Draw an outline of a pink oval.
 		// Center: (200, 300)
 		// Width: 100
-		// Length: 50
+		// Height: 50
 
 		// Draw a filled yellow square.
 		// Center: (400, 400)
