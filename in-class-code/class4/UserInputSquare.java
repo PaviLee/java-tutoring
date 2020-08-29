@@ -1,4 +1,4 @@
-package class3;
+package class4;
 
 import java.awt.Color;
 import java.awt.Graphics;
