@@ -42,7 +42,8 @@ public class UserInputSquare {
 			} else {
 				x += move;
 			}
-
+			
+			// Show square for 15 milliseconds
 			Thread.sleep(15);
 		}
 	}
