@@ -3,7 +3,7 @@ package class6;
 public class StringCheatsheet {
 
 	public static void main(String[] args) {
-		String str = "Hello I am Rissa!";
+		String str = "Hello, I am Name!";
 		int length = str.length();
 		System.out.println(length);
 
