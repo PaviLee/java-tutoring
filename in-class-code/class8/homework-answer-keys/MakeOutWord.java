@@ -13,4 +13,5 @@ public class MakeOutWord {
 		String end = out.substring(2);
 		return beg + word + end;
 	}
+	
 }
