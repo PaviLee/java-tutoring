@@ -14,5 +14,4 @@ public class CurlyBraces {
 	public static void printName(String name) {
 		System.out.println(name);
 	}
-
 }
