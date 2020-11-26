@@ -26,5 +26,4 @@ public class Main {
 //		System.out.println(p2.canDrive());
 //		System.out.println(p2.canRideTheRide());
 	}
-
 }

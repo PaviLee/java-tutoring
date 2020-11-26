@@ -1,6 +1,7 @@
 package class16;
 
 public class Person {
+
 	// Field(s)
 	// public dataType varName = value;
 	public int age;
